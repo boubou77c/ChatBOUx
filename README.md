@@ -38,3 +38,11 @@ It is gonna be IPv4 Address : (address)
 What the application looks like :
 
 ![App ScreenShot](chatBox.png)
+
+# About Me 🚀
+
+I am a beginner programmer.
+
+If you have any advice to improve my skills ,ideas to enhance my program or suggestions for creating new program, you can write me :
+
+My discord : .bou_bou_
